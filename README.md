@@ -1,5 +1,5 @@
 # slepc_expint
-Slight modification of a slepc mfn example.
+Slight modification of a slepc mfn example (will build on this later).
 
 Compile: For example
 

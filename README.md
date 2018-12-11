@@ -22,6 +22,7 @@ Heat equation via phi functions, n=99, tend=1., deltat=0.1
  Number of iterations of the method: 82
  Stopping condition: tol=1e-08, maxit=100
  Number of time steps: 10
-Elapsed time is 19.486080
+Elapsed time is 19.056227
+
 
 ```

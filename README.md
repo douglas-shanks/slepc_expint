@@ -13,7 +13,7 @@ Compile: For example
 Run: 
 
 ```python
->> OMP_NUM_THREADS=1  mpiexec -np 1 ./ex39_mod
+>> OMP_NUM_THREADS=1  mpiexec -np 1 ./slepc_expint
 >>
 Heat equation via phi functions, n=99, tend=1., deltat=0.1
 

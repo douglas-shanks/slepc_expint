@@ -1,7 +1,7 @@
 # slepc_expint
 Slight modification of a slepc mfn example (will build on this later).
 
-Compile: For example
+Compile: For example, assuming a prexisting build of PETSc and SLEPc
 
 ```python
 >> cd slepc_expint
